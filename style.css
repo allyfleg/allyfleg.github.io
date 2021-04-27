@@ -4,11 +4,30 @@ h2 {
 	color:#001233;
 }
 
+h1 {
+
+	color: #8E9AAF;
+}
+
+
 body {
-	background-color:#f0efeb
+	background-color: #DEE2FF;
 	text-align:center;
 	font-family: 'Playfir Display', serif;
 }
 
+img {
+
+	border-color: black;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 10%;
+}
+
+p, li {
+
+	font-size: 15px;
+
+}
 
 
